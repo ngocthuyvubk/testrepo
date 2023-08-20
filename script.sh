@@ -1,3 +1,2 @@
-echo "2
-3"
+echo "2 2223"
 echo "test demo job 1"
